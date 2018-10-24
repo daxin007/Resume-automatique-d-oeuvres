@@ -1,0 +1,7 @@
+Transcriptions manuelles (alignees automatiquement avec le fichier audio) pour les 17 premiers episodes de la saison 1 de The Big Bang Theory ainsi qu'annotations manuelles pour le decoupage en scene pour les 12 premiers episodes.
+
+Pour les fichiers de transcriptions manuelles, chaque ligne contient les informations suivantes :
+Titre_fichier num_saison temps_debut_mot duree_mot mot mesure_confiance_alignement type_donnees nom_locuteur type_EN nom_EN role_EN
+
+Dans les fichiers de segmentation en scene, chaque scene est representee par une ligne avec son temps de debut et son temps de fin.
+Le temps de debut d'une scene ne correspond pas forcement au temps de fin de la precedente car il y a une sorte de jingle entre les scenes dans TBBT.
